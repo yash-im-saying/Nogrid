@@ -1,0 +1,6 @@
+{
+  "name": "Vanguard Mesh",
+  "description": "Offline-first end-to-end encrypted tactical messaging, push-to-talk walkie-talkie, MGRS radar, and optical light-link PWA.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
